@@ -29,7 +29,7 @@ Data Analysis of Digital platform.
 - <a href="https://github.com/payzubax83/Digital-platform-data-analysis_PGAdmin4/blob/main/PostgreSQL%20project%201.sql">SQL script</a>
 
 ## Project insight
-1.The book 'Coraline' addded 199 users, 49 users listened to more than 10%
-2.14	rows returned
-3."The Subtle Art of Not Giving a F*ck" is the book that the most people listen to, listener quantity is 1133
-4.The book that people most often listen to until the end is "The Subtle Art of Not Giving a F*ck"
+1. The book 'Coraline' addded 199 users, 49 users listened to more than 10%
+2. 14	rows returned
+3. "The Subtle Art of Not Giving a F*ck" is the book that the most people listen to, listener quantity is 1133
+4. The book that people most often listen to until the end is "The Subtle Art of Not Giving a F*ck"
