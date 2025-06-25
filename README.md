@@ -3,7 +3,7 @@
 Data Analysis of Digital platform. 
 
 ## Database used
-- <a href=" https://github.com/payzubax83/Digital-platform-data-analysis_PGAdmin4/blob/main/postgresqldb.sql">Dataset</a>
+- <a href="https://github.com/payzubax83/Digital-platform-data-analysis_PGAdmin4/blob/main/postgresqldb.sql">Dataset</a>
 
 ##  General Business Description:
 ●	The company receives books and audiobooks from rights holders based on revenue sharing from user subscriptions.
